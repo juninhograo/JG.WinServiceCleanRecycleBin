@@ -18,7 +18,7 @@ Creating a robot to recycle the Windows bin once a day or for a customized time
 ![image](https://user-images.githubusercontent.com/5727040/140397230-7ddc3143-6840-45e5-a407-eac27ce28818.png)
 
 
-<h3>Installation App as a Windows Service</h3>
+<h3>Installation as a Windows Service</h3>
 - Open the Windows CMD as Administrator
 - Run the command to open the folder where the files where unzipped, ex: cd C:\tmp 
 - Press the Enter key
