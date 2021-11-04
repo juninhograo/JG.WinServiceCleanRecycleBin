@@ -1,5 +1,5 @@
 # Windows Service for Recycle Bin
-Creating a robot to recycle the Windows bin once a day or for a customized time
+Creating a robot to recycle the Windows bin once a day or for a customized time. Technologies: C# + Windows + CMD + C++
 
 <h3>Options</h3>
 Edit the file JG.RecycleBinRobot.exe.config from the root folder
