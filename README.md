@@ -33,7 +33,7 @@ Creating a robot to recycle the Windows bin once a day or for a customized time
 - Open the Windows CMD as Administrator
 - Run the command to open the folder where the files where unzipped, ex: cd C:\tmp 
 - Press the Enter key
-- Run the command to install the app as a Windows Service: JG.RecycleBinRobot.exe uninstall
+- Run the command to uninstall the app as a Windows Service: JG.RecycleBinRobot.exe uninstall
 - Press the Enter key
 ![image](https://user-images.githubusercontent.com/5727040/140399350-3415b99d-afa0-4ccd-a884-75f751973d02.png)
 
