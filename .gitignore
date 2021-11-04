@@ -3,5 +3,8 @@
 ################################################################################
 
 /packages
-/JG.RecycleBinRobot
-/.vs/JG.RecycleBinRobot/v16
+/JG.RecycleBinRobot/bin/Debug
+/JG.RecycleBinRobot/obj/Debug
+/JG.RecycleBinRobot/publish
+/.vs/JG.RecycleBinRobot/v16/.suo
+/JG.RecycleBinRobot/JG.RecycleBinRobot_TemporaryKey.pfx
