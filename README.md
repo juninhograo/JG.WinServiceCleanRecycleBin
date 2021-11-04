@@ -1,7 +1,7 @@
 # Windows Service for Recycle Bin
 Creating a robot to recycle the Windows bin once a day or for a customized time
 
-##Options
+<h3>Options</h3>
 ![image](https://user-images.githubusercontent.com/5727040/140395533-5cdba656-c660-4b97-97e5-35d33bef73dc.png)
 
 - SERVICE_NAME - The name of the Service. The Default value is "JG_RecycleBinRobot";
@@ -12,12 +12,12 @@ Creating a robot to recycle the Windows bin once a day or for a customized time
 - TIME_TO_END - The robot will run until this time. The Default value is "10:00:00 PM";
 
 
-##Installation
+<h3>Installation</h3>
 - Download and unzip the package in the best place you need. Run the file "JG.RecycleBinRobot.exe"
 ![image](https://user-images.githubusercontent.com/5727040/140397230-7ddc3143-6840-45e5-a407-eac27ce28818.png)
 
 
-##Installation App as a Windows Service
+<h3>Installation App as a Windows Service</h3>
 - Open the Windows CMD as Administrator
 - Run the command to open the folder where the files where unzipped, ex: cd C:\tmp 
 - Press the Enter key
@@ -29,7 +29,7 @@ Creating a robot to recycle the Windows bin once a day or for a customized time
 ![image](https://user-images.githubusercontent.com/5727040/140398716-7d61b74f-3f09-45ea-b9aa-7265fafa38c8.png)
 
 
-##Uninstall
+<h3>Uninstall</h3>
 - Open the Windows CMD as Administrator
 - Run the command to open the folder where the files where unzipped, ex: cd C:\tmp 
 - Press the Enter key
@@ -38,3 +38,6 @@ Creating a robot to recycle the Windows bin once a day or for a customized time
 ![image](https://user-images.githubusercontent.com/5727040/140399350-3415b99d-afa0-4ccd-a884-75f751973d02.png)
 
 
+<h3>References</h3>
+Tim Corey: https://www.youtube.com/watch?v=y64L-3HKuP0&t=171s
+Abhishek Kumar Ravi: https://www.c-sharpcorner.com/UploadFile/167ad2/empty-recycle-bin-using-C-Sharp/
