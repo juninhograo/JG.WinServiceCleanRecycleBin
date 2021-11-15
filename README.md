@@ -3,7 +3,9 @@ Creating a robot to recycle the Windows bin once a day or for a customized time.
 
 <h3>Options</h3>
 Edit the file JG.RecycleBinRobot.exe.config from the root folder
+
 ![image](https://user-images.githubusercontent.com/5727040/140395533-5cdba656-c660-4b97-97e5-35d33bef73dc.png)
+
 - SERVICE_NAME - The name of the Service. The Default value is "JG_RecycleBinRobot";
 - SERVICE_DISPLAY_NAME - The display name in the Windows Services app. The Default value is "JG Reclycle Bin Robot";
 - SERVICE_DESCRIPTION - The description that will be shown in the Windows Services app. The Default value is "JG Reclycle Bin Robot";
