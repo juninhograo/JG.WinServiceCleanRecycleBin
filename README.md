@@ -24,9 +24,11 @@ Edit the file JG.RecycleBinRobot.exe.config from the root folder
 - Press the Enter key
 - Run the command to install the app as a Windows Service: JG.RecycleBinRobot.exe install start
 - Press the Enter key
+
 ![image](https://user-images.githubusercontent.com/5727040/140396325-1a20dacf-9f20-4bbe-8907-63db185f36b6.png)
 
 - Go to Service Service and make sure the app is running there:
+
 ![image](https://user-images.githubusercontent.com/5727040/140398716-7d61b74f-3f09-45ea-b9aa-7265fafa38c8.png)
 
 
@@ -36,6 +38,7 @@ Edit the file JG.RecycleBinRobot.exe.config from the root folder
 - Press the Enter key
 - Run the command to uninstall the app as a Windows Service: JG.RecycleBinRobot.exe uninstall
 - Press the Enter key
+
 ![image](https://user-images.githubusercontent.com/5727040/140399350-3415b99d-afa0-4ccd-a884-75f751973d02.png)
 
 
